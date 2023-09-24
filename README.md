@@ -11,3 +11,7 @@ code .  -> Abre editor de texto Visual Code
 clear -> Limpia Pantalla
 
 CONFIGURACION GIT
+
+Configuracion de la base en git
+    .git config --global user.name "USUARIO"
+    .git config -- glboal user.email "CORREO"
