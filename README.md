@@ -18,3 +18,9 @@ Configuracion de la base en git
 
 
 TRABAJAR EN EL DIRECTORIO CON GIT
+    .git init -> Dentro de la carpeta del proyecto
+    .git status -> Revisamos El estado
+    .git add "nombre archivo" -> Sube solo el archivo seleccionado
+    .git add . -> Sube todos los archivos pendientes
+    .git commit -m "COMENTARIO"
+    
