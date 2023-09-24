@@ -2,3 +2,4 @@
 
 Comandos de la Terminal 
 
+ls -> Listado de Directorios
